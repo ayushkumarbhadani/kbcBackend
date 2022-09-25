@@ -1,0 +1,27 @@
+{
+  "name": "kbc-backend",
+  "version": "1.0.0",
+  "description": "kbc api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushkumarbhadani/kbcBackend.git"
+  },
+  "keywords": [
+    "kbc",
+    "api",
+    "game"
+  ],
+  "author": "Ayush Kumar Bhadani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushkumarbhadani/kbcBackend/issues"
+  },
+  "homepage": "https://github.com/ayushkumarbhadani/kbcBackend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
